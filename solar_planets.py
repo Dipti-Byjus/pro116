@@ -1,6 +1,3 @@
-import cv2
-
-img = cv2.imread("solar-system.jpg")
 
 cv2.putText(img,
             "Sun",
